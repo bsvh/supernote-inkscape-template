@@ -13,4 +13,8 @@ convert input_image_name.png \
 
 ![](doc/inkscape-layers.png)
 
+The template itself will not show the Supernote device outside of Inkscape due to how the page is setup, but there is also `supernote.svg` which is an SVG of the device itself.
+
+![](supernote.svg)
+
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
